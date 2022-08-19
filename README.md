@@ -1,6 +1,8 @@
 # SeparatePDFpages
  Separate pages from a PDF file
 
+PROJETO CRIADO EM PYTHON
+
 Projeto criado para separar as páginas de um arquivo em PDF.
 
 Foram utilizadas as bibliotecas:
