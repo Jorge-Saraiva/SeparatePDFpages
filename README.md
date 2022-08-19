@@ -15,4 +15,4 @@ Foram utilizadas as bibliotecas:
 <br>Para a criação do arquivo executável, foi utilizada a biblioteca PYINSTALLER.
 
 
-***Obs. AS páginas serão salvas na pasta, de acordo com a numeração das páginas do arquivo PDF
+***Obs. As páginas serão salvas na pasta, de acordo com a numeração das páginas do arquivo PDF
