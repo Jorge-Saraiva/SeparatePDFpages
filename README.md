@@ -1,5 +1,5 @@
 # SeparatePDFpages
- Separate pages from a PDF
+ Separate pages from a PDF file
 
 Projeto criado para separar as páginas de um arquivo em PDF.
 
